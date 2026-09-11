@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the files and local references required by the Salem Comics site."""
+"""Validate the files and local references required by the storefront template."""
 
 from __future__ import annotations
 

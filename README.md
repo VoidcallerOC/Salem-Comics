@@ -1,1 +1,1 @@
-# Salem-Comics
+# Storefront Template
